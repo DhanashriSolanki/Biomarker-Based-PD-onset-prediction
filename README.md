@@ -19,7 +19,7 @@ reports and model outputs into simplified formats.
 • To design a model with high accuracy, sensitivity, and interpretability to aid in early
 intervention and accurate diagnosis.
 
-Tech Stack used: Python
+Tech Stack used: Python Jupyter notebook
 
 Data set used in algorithms: "cleaned_early_pd_dataset.csv"
 
@@ -28,7 +28,4 @@ Already implemented:
 - Implementation of KNN classifier: Accuracy obtained = 86%
 - Implementation of Logistic regression: Accuracy obtained = 89%
 - Implementation of Decision Tree classifier: Accuracy obtained = 97%
-
-Next step:
-- Implementing a Random Forest
-- Implementing a Support Vector Machine (SVM)
+- Implementation of Random Forest classifier: Accuracy obtained = 95%
