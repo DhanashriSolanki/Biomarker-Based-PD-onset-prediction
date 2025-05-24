@@ -29,3 +29,4 @@ Already implemented:
 - Implementation of Logistic regression: Accuracy obtained = 89%
 - Implementation of Decision Tree classifier: Accuracy obtained = 97%
 - Implementation of Random Forest classifier: Accuracy obtained = 95%
+- Implementation of Support Vector Machine (SVM) classifier: Accuracy obtained = 91%
